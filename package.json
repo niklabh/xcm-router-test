@@ -1,0 +1,20 @@
+{
+  "name": "paraspell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@paraspell/xcm-router": "^0.0.1",
+    "@polkadot/api": "^10.11.1",
+    "@polkadot/api-base": "^10.11.1",
+    "@polkadot/apps-config": "^0.133.1",
+    "@polkadot/types": "^10.11.1",
+    "@polkadot/util": "^12.6.1"
+  }
+}
